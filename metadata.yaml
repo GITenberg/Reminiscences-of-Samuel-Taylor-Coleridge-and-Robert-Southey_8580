@@ -1,0 +1,25 @@
+_repo: Reminiscences-of-Samuel-Taylor-Coleridge-and-Robert-Southey_8580
+creator:
+  author:
+    agent_name: Cottle, Joseph
+    birthdate: 1770
+    deathdate: 1853
+    gutenberg_agent_id: '2815'
+    url: http://www.gutenberg.org/2009/agents/2815
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Cottle
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8580'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Southey, Robert, 1774-1843'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcsh 'Coleridge, Samuel Taylor, 1772-1834'
+title: Reminiscences of Samuel Taylor Coleridge and Robert Southey
+url: http://www.gutenberg.org/ebooks/8580
