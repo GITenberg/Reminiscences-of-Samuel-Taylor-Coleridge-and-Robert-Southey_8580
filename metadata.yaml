@@ -1,4 +1,8 @@
 _repo: Reminiscences-of-Samuel-Taylor-Coleridge-and-Robert-Southey_8580
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cottle, Joseph
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2815
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Cottle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8580#Reminiscences-of-Samuel-Taylor-Coleridge-and-Robert-Southey
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
